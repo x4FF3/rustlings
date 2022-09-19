@@ -48,9 +48,9 @@ If you get a permission denied message, you might have to exclude the directory 
 
 ## Browser
 
-[Run on Repl.it](https://repl.it/github/rust-lang/rustlings)
+[Run on Repl.it](https://repl.it/github/x4FF3/rustlings)
 
-[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/rust-lang/rustlings)
+[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/x4FF3/rustlings)
 
 ## Manually
 
